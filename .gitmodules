@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "scShardSplitRef"]
 	path = scShardSplitRef
-	url = https://github.com/cran/scShardSplitRef
+	url = https://github.com/irinavkuznetsova/scshardsplitref
